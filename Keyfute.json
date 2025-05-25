@@ -1,0 +1,30 @@
+[
+  {
+    "id": "de9b8cc60aeddf18",
+    "username": "adm",
+    "password": "kuringaboy",
+    "expiresAt": "3025-12-31",
+    "allowOffline": true
+  },
+{
+    "id": "0000",
+    "username": "thiagoF",
+    "password": "1234",
+    "expiresAt": "2026-12-31",
+    "allowOffline": true
+  },
+  {
+    "id": "0000",
+    "username": "carente",
+    "password": "1234",
+    "expiresAt": "2026-11-30",
+    "allowOffline": true
+  },
+{
+    "id": "4033928fb0a30948",
+    "username": "bolofa",
+    "password": "1234",
+    "expiresAt": "2026-11-30",
+    "allowOffline": true
+  }
+]
