@@ -35,6 +35,13 @@
     "allowOffline": true
   },
 {
+    "id": "d438cb108bb9dbab",
+    "username": "antonioana",   
+    "password": "1234",
+    "expiresAt": "2026-11-30",
+    "allowOffline": true
+  },
+{
     "id": "4033928fb0a30948",
     "username": "bolofa",
     "password": "1234",
