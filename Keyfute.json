@@ -63,6 +63,13 @@
     "allowOffline": true
   },
 {
+    "id": "c7e574cf2285617a",
+    "username": "pedro",
+    "password": "1234",
+    "expiresAt": "2026-11-30",
+    "allowOffline": true
+  },
+{
     "id": "fb2971e8ff646ffa",
     "username": "guto",
     "password": "1234",
