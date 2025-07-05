@@ -20,6 +20,13 @@
     "expiresAt": "2026-11-30",
     "allowOffline": true
   },
+{
+    "id": "d438cb108bb9dbab",
+    "username": "toin",
+    "password": "1234",
+    "expiresAt": "2030-11-30",
+    "allowOffline": true
+  },
   {
     "id": "103c072d74afe822",
     "username": "betocp",
